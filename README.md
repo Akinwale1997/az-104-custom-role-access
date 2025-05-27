@@ -31,10 +31,14 @@ In many real-world environments, junior DevOps or support engineers need to inte
 
 ## Screenshots Included
 
-- 01-custom-role-permission-selected.png – Shows selected VM permissions  
-- 02-custom-role-created-confirmation.png – Confirms role creation  
-- 03-custom-role-assignment.png – Role assignment to self  
+![Permissions Selected](https://github.com/Akinwale1997/az-104-custom-role-access/blob/main/01-custom-role-permission-selected.png?raw=true)
+*Selected VM permissions during custom role creation*
 
+![Role Created](https://github.com/Akinwale1997/az-104-custom-role-access/blob/main/02-custom-role-created-confirmation.png?raw=true)
+*Confirmation of successful custom role creation*
+
+![Role Assignment](https://github.com/Akinwale1997/az-104-custom-role-access/blob/main/03-custom-role-assignment.png?raw=true)
+*Assigning the role to my user account*
 ---
 
 ##
